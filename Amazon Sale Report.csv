@@ -1,0 +1,16 @@
+Order ID,Order Date,Customer ID,Category,Product,Size,Qty,Amount,Status,State,Country
+1001,1/5/2023,C001,Clothing,T-Shirt,M,2,500,Shipped,Maharashtra,India
+1002,1/7/2023,C002,Clothing,Jeans,L,1,1200,Shipped,Karnataka,India
+1003,1/10/2023,C003,Electronics,Headphones,NA,1,1500,Cancelled,Delhi,India
+1004,1/12/2023,C001,Clothing,Kurta,XL,3,2100,Shipped,Uttar Pradesh,India
+1005,1/15/2023,C004,Home,Wall Decor,NA,2,800,Shipped,Tamil Nadu,India
+1006,1/18/2023,C005,Clothing,T-Shirt,S,1,300,Shipped,Maharashtra,India
+1007,1/20/2023,C002,Electronics,Mouse,NA,2,700,Shipped,Karnataka,India
+1008,1/22/2023,C006,Clothing,Shirt,M,1,900,Cancelled,Delhi,India
+1009,1/25/2023,C007,Home,Lamp,NA,1,600,Shipped,Kerala,India
+1010,1/28/2023,C003,Clothing,Jeans,XL,2,2400,Shipped,Delhi,India
+1011,2/2/2023,C008,Electronics,Keyboard,NA,1,1100,Shipped,Gujarat,India
+1012,2/5/2023,C009,Clothing,Kurta,L,2,1400,Shipped,Rajasthan,India
+1013,2/8/2023,C001,Clothing,T-Shirt,M,1,250,Shipped,Maharashtra,India
+1014,2/10/2023,C010,Home,Cushion,NA,3,900,Cancelled,Punjab,India
+1015,2/12/2023,C002,Clothing,Shirt,L,2,1800,Shipped,Karnataka,India
